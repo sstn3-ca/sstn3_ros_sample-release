@@ -19,7 +19,7 @@ tracks:
     last_version: 0.10.3
     name: upstream
     patches: null
-    release_inc: '3'
+    release_inc: '4'
     release_repo_url: https://github.com/sstn3-ca/sstn3_ros_sample-release.git
     release_tag: :{version}
     ros_distro: noetic
