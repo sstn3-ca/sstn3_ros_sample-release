@@ -1,3 +1,4 @@
+release_repo_url: https://github.com/sstn3-ca/sstn3_ros_sample-release.git
 tracks:
   noetic:
     actions:
