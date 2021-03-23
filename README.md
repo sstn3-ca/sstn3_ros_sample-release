@@ -1,3 +1,26 @@
+## sstn3_ros_sample (noetic) - 0.10.3-18
+
+The packages in the `sstn3_ros_sample` repository were released into the `noetic` distro by running `/var/runtime/bootstrap` on `Tue, 23 Mar 2021 07:35:41 -0000`
+
+The `sstn3_ros_sample` package was released.
+
+Version of package(s) in repository `sstn3_ros_sample`:
+
+- upstream repository: https://github.com/sstn3-ca/sstn3_ros_sample.git
+- release repository: https://github.com/sstn3-ca/sstn3_ros_sample-release.git
+- rosdistro version: `0.10.2-2`
+- old version: `0.10.3-17`
+- new version: `0.10.3-18`
+
+Versions of tools used:
+
+- bloom version: `0.10.2`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## sstn3_ros_sample (noetic) - 0.10.3-17
 
 The packages in the `sstn3_ros_sample` repository were released into the `noetic` distro by running `/var/runtime/bootstrap` on `Mon, 22 Mar 2021 10:28:22 -0000`
